@@ -48,7 +48,7 @@
    &kp GRAVE   &kp Q &kp W &kp E &kp R &kp T   &kp Y &kp U  &kp I     &kp O   &kp P    &kp DEL
    &kp TAB &bhm LSHIFT A  &bhm LALT S  &bhm LGUI D  &bhm LCTRL F  &kp G   &kp H   &bhm LCTRL J &bhm RGUI K &bhm RALT L &bhm RSHIFT SEMI &kp SQT
    &kp LSHFT &kp Z &kp X &kp C &kp V &kp B   &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RET
-                        &kp LGUI  &lt LOWER ESC &kp SPACE &lt RAISE BSPSC  &kp LALT
+                        &kp LGUI  &lt LOWER ESC &kp SPACE &lt RAISE BSPC  &kp LALT
                         >;
                 };
 
